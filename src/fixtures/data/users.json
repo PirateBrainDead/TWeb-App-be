@@ -1,0 +1,23 @@
+[
+  {
+    "id": "afe3417f-f28a-4c18-a6c3-2305b91cd169",
+    "username": "pabloescobar",
+    "password": "$2a$10$gKJIwuCiWPKL8LCZUfnrKONl/c5qkh.0oEWm8mebbM0nTlN4zoi.6",
+    "lastPasswordChangedDate": "2020-01-01 10:10:10",
+    "role": "SuperAdmin"
+  },
+  {
+    "id": "25b4b9f7-80f4-4317-8b6f-d5ab5ad72f60",
+    "username": "managerapp",
+    "password": "$2a$10$pJGsoBUt1mM.g8Vn4BgtBeMXMTDAmfOqm0MPc4uZ2tUkqaeoQWmcG",
+    "lastPasswordChangedDate": "2020-01-01 10:10:10",
+    "role": "Manager"
+  },
+  {
+    "id": "d43e824f-3116-49d4-8615-c48223a1f751",
+    "username": "hqapp",
+    "password": "$2a$10$v9ADvOH8jDl28opPYNeAN.BHd0iDuD65/gMnL.shrBhBB92Z0xHpG",
+    "lastPasswordChangedDate": "2020-01-01 10:10:10",
+    "role": "HQ"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ce3a4574-38b1-4d8b-8918-3dcce2a80520",
+    "iconName": "bread",
+    "name": "Bread",
+    "plannedDays": []
+  },
+  {
+    "id": "83d4191d-2f07-46f7-a71f-93f9b9306d75",
+    "iconName": "dairy",
+    "name": "Milk and friends",
+    "plannedDays": []
+  },
+  {
+    "id": "47b3760d-ae93-48b5-85ec-4436e8ad783f",
+    "iconName": "fresh",
+    "name": "Fresh stuff",
+    "plannedDays": []
+  },
+  {
+    "id": "d8921a20-e5d1-4be7-ba8c-4a93804ae0c0",
+    "iconName": "fridge",
+    "name": "Things that go in le fridge",
+    "plannedDays": []
+  }
+]
